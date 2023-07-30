@@ -1,0 +1,19 @@
+{
+  "name": "codespaces-blank",
+  "version": "1.0.0",
+  "description": "ecommerce rest api",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "start": "node server.js",
+    "server":"nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Rajendra",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
